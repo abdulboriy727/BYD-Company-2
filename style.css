@@ -10,7 +10,7 @@ body{
   background-image: url(images/photo_2024-01-02_13-27-36.jpg);
   background-repeat: no-repeat;
   width: 600px;
-  height: 1100px;
+  height: 1050px;
   box-sizing: border-box;
   background-size: cover;
   margin: auto;
@@ -80,7 +80,7 @@ h2{
   border-radius: 15px;
   margin: auto;
   background-color: silver;
-  margin-top: 40px;
+  margin-top: 80px;
 }
 
 input{
